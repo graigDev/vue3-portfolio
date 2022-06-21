@@ -2,6 +2,11 @@
 
 Portfolio for full-stack web developer. Enjoy
 
+Clone the project
+```
+git clone https://github.com/graigDev/vue3-portfolio.git
+```
+
 ## Project setup
 ```
 yarn install
