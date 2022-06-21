@@ -1,4 +1,6 @@
-# portefolio
+# GraigDev Vue3 Portfolio
+
+Portfolio for full-stack web developer. Enjoy
 
 ## Project setup
 ```
